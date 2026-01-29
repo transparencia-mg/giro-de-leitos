@@ -1,4 +1,4 @@
-name: giro-de-leitos e ISSL
+name: giro-de-leitos e iisl
 owner_org: fundacao-hospitalar-do-estado-de-minas-gerais-fhemig
 profile: data-package
 resources:
@@ -27,7 +27,7 @@ resources:
           description: "Giro de Leitos (relação entre o número de pacientes que saíram do leito (alta/óbitos) e número de leitos disponíveis no mesmo período)."
         - name: iisl
           type: string
-          description: "Índice de Intervalo de Substituição de Leitos (tempo médio que um leito fica vazio entre a saída de um paciente e a entrada do próximo. 
+          description: "Índice de Intervalo de Substituição de Leitos (tempo médio que um leito fica vazio entre a saída de um paciente e a entrada do próximo." 
     scheme: file
-    title: Giro de Leitos e ISSL por unidade FHEMIG.
-title: Giro de leitos e ISSL
+    title: "Giro de Leitos e IISL por unidade FHEMIG."
+title: "Giro de leitos e IISL."
