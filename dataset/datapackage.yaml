@@ -29,5 +29,5 @@ resources:
           type: string
           description: "Índice de Intervalo de Substituição de Leitos (tempo médio que um leito fica vazio entre a saída de um paciente e a entrada do próximo." 
     scheme: file
-    title: "Giro de Leitos e IISL por unidade FHEMIG."
-title: "Giro de leitos e IISL."
+    title: "Giro de Leitos e IISL por unidade FHEMIG"
+title: "Giro de Leitos e IISL por unidade FHEMIG"
